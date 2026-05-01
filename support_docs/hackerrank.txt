@@ -1,0 +1,4 @@
+HackerRank Support:
+Users can reset password using forgot password option.
+Refund policy is 30 days.
+Users facing login issues should clear cache and try again.
